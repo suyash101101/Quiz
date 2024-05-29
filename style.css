@@ -8,9 +8,7 @@
   
   body {
     box-sizing: border-box;
-    background-color: black;
-    background-image:
-    url('images/background.png');
+    background-color: aqua;
     color: white;
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
